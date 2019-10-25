@@ -23,7 +23,8 @@
 - [Rasa X](https://rasa.com/docs/rasa-x) - The official Rasa X documentation.
 
 ## Blogs
-- coming soon
+- The Rasa Masterclass Handbook
+  - [Episode 1](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-1/?utm_source=awesome-rasa)
 
 ## Videos
 
