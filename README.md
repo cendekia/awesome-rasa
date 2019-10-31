@@ -31,6 +31,7 @@
 - [Rasa Masterclass Ep#1](https://youtu.be/-F6h43DRpcU) - Intro to conversational AI and Rasa.
 - [Rasa Masterclass Ep#2](https://youtu.be/k5UeywXA28k) - Creating the NLU training data.
 - [Rasa Masterclass Ep#3](https://youtu.be/seBN1gMJN0U) - Training the NLU model: pre-configured pipelines.
+- [Rasa Masterclass Ep#4](https://youtu.be/ET1k9OrsfYQ) - Training the NLU models: understanding pipeline components.
 - [Rasa X Tutorial 1](https://www.youtube.com/watch?v=POcgUi34Aow) - Constructing a Basic AI Assistant.
 - [Rasa X Tutorial 2](https://youtu.be/8Sc7-AiY0fg) - Expanding Language Understanding.
 - [Rasa X Tutorial 3](https://youtu.be/6Pghab6b28E) - Richer Responses.
