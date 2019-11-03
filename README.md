@@ -14,10 +14,10 @@
 
 ## Tools
 - [Botfront.](https://botfront.io) - An intuitive open source platform to build smart assistants with Rasa.
+- [Botmock](https://botmock.com) - A design and prototyping tool that exports Rasa stories and NLU file. Making it super easy for your design team to work with content, prototyping and testing before deploying changes to Rasa.
 - [Chatette](https://github.com/SimGus/Chatette) - A powerful dataset generator for Rasa NLU, inspired by Chatito.
 - [Chatito](https://github.com/rodrigopivi/Chatito) - Generate datasets for AI chatbots, NLP tasks, named entity recognition or text classification models using a simple DSL.
 - [Rasa Chatter](https://github.com/cendekia/rasa-chatter) - A command line tool to generate, manage, convert, and even train conversation from simgus/chatette dataset to Rasa NLU format.
-- [Botmock](https://botmock.com) - A design and prototyping tool that exports Rasa stories and NLU file. Making it super easy for your design team to work with content, prototyping and testing before deploying changes to Rasa.
 
 ## Documentation
 - [Rasa](https://rasa.com/docs/rasa) - The official Rasa documentation.
