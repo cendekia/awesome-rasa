@@ -25,6 +25,7 @@
 ## Blogs
 - The Rasa Masterclass Handbook
   - [Episode 1](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-1/?utm_source=awesome-rasa)
+  - [Episode 2](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-2/?utm_source=awesome-rasa)
 
 ## Videos
 
