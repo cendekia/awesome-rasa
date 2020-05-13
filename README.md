@@ -29,7 +29,15 @@
   - [Episode 1](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-1/?utm_source=awesome-rasa)
   - [Episode 2](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-2/?utm_source=awesome-rasa)
   - [Episode 3](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-3/?utm_source=awesome-rasa)
-
+  - [Episode 4](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-4/?utm_source=awesome-rasa)
+  - [Episode 5](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-5/?utm_source=awesome-rasa)
+  - [Episode 6](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-6/?utm_source=awesome-rasa)
+  - [Episode 7](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-7/?utm_source=awesome-rasa)
+  - [Episode 8](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-8/?utm_source=awesome-rasa)
+  - [Episode 9](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-9/?utm_source=awesome-rasa)
+  - [Episode 10](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-10/?utm_source=awesome-rasa)
+  - [Episode 11](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-11/?utm_source=awesome-rasa)
+  - [Episode 12](https://blog.rasa.com/the-rasa-masterclass-handbook-episode-12/?utm_source=awesome-rasa)
 ## Videos
 
 - [Rasa Masterclass Ep#1](https://youtu.be/-F6h43DRpcU) - Intro to conversational AI and Rasa.
@@ -38,6 +46,7 @@
 - [Rasa Masterclass Ep#4](https://youtu.be/ET1k9OrsfYQ) - Training the NLU models: understanding pipeline components.
 - [Rasa Masterclass Ep#5](https://youtu.be/WoTmnN2EMdo) - Intro to dialogue management with Rasa.
 - [Rasa Masterclass Ep#6](https://youtu.be/W7jdIeyIPcU) - Domain, custom actions and slots.
+
 - [Rasa X Tutorial 1](https://www.youtube.com/watch?v=POcgUi34Aow) - Constructing a Basic AI Assistant.
 - [Rasa X Tutorial 2](https://youtu.be/8Sc7-AiY0fg) - Expanding Language Understanding.
 - [Rasa X Tutorial 3](https://youtu.be/6Pghab6b28E) - Richer Responses.
